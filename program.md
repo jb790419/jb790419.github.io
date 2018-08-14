@@ -51,4 +51,9 @@ published: true
  - odhlučnit přechody na Masarykově ulici a náměstí
  - podporovat cyklostezky a pěší zóny
 
+> Radnice potřebuje aktivní lidi!
+> Radnici musí být vidět pod prsty!
+> Informace pro všechny!
+> Kontrola moci je podmínkou, aby moc sloužila veřejnosti!
+
 
