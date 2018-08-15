@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-## Program pro Komunální volby 2018
+## <a name="content"></a>Program pro Komunální volby 2018
 ### Řízení radnice
  - maximální informovanost o rozpočtu a řízení města (plán akcí, rozklikávací rozpočet, zveřejňování faktur)
  - Choceňský zpravodaj nezávislý na vedení města
