@@ -2,3 +2,14 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+body {
+    background-image: url(/assets/alej.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.wrapper section, .wrapper header {
+    padding: 1em;
+    background-color: white;
+    opacity: 0.9;
+}
