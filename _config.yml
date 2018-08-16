@@ -1,6 +1,7 @@
-title: Otevřená radnice Choceň
+title: [Otevřená radnice Choceň]
 #description: Nechte prosím otevřené dveře, ať mohou kočky volně procházet.
-description: Sdružení nezávislých kandidátů pro komunální volby 2018
+description: [Sdružení nezávislých kandidátů pro komunální volby 2018]
 show_downloads: true
 google_analytics:
-theme:
+theme: jekyll-theme-minimal
+logo: /assets/orlogo2018.png
