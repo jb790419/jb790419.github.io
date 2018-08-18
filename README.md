@@ -1,6 +1,6 @@
-# Hydejack Starter Kit
+# Web pro Otevřenou radnici
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Github Pages Theme [Hydejack](https://hydejack.com/).
 
 ## Quick Start
 ### Running locally
