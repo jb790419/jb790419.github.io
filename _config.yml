@@ -236,7 +236,7 @@ remote_theme: qwtel/hydejack@v8.0.0
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: lCwU-aqlpHONnldk9ryK0e67HeDKL_TlxKhXVktK4I8
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
