@@ -27,8 +27,9 @@ description:           >
   Sdružení nezávislých kandidátů pro komunální volby 2018 v Chocni dne 5. a 6. října 2018
 
 # A shorter description for the sidebar.
-tagline:               >
-  Sdružení nezávislých kandidátů
+tagline:               |
+  Jdeme do toho společně.<br>
+  Otevřeme radnici i pro vás.
 
 # A list of keywords for your blog.
 keywords:              [otevrena radnice chocen 2018 komunalni volby]
@@ -44,10 +45,10 @@ author:
   # Used by `jekyll-seo-tag`:
   twitter:             jb790419
   social:
-    facebook: https://www.facebook.com/Otevřená-radnice-671976089556606
+    facebook: Otevřená-radnice-671976089556606
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:
+copyright: 2018 Sdružení nezávislých kandidátů Otevřená radnice Choceň
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
