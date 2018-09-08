@@ -20,7 +20,26 @@
 {{ author.age }} let,
 {{ author.occupation }}
 </h3>
-  {{ .author.about | markdownify }}
+  {{ .author.about | markdownify
+                   | replace: ' k ', ' k&nbsp;'
+                   | replace: ' K ', ' K&nbsp;'
+                   | replace: ' z ', ' z&nbsp;'
+                   | replace: ' Z ', ' Z&nbsp;'
+                   | replace: ' s ', ' s&nbsp;'
+                   | replace: ' S ', ' S&nbsp;'
+                   | replace: ' v ', ' v&nbsp;'
+                   | replace: ' V ', ' V&nbsp;'
+                   | replace: ' A ', ' A&nbsp;'
+                   | replace: ' a ', ' a&nbsp;'
+                   | replace: ' o ', ' o&nbsp;'
+                   | replace: ' O ', ' O&nbsp;'
+                   | replace: ' i ', ' i&nbsp;'
+                   | replace: ' I ', ' I&nbsp;'
+                   | replace: ' - ', '&thinsp;&ndash;&thinsp;'
+                   | replace: ' u ', ' u&nbsp;'
+                   | replace: ' U ', ' U&nbsp;'
+                   
+  }}
 
   <div class="sidebar-social">
     {% include components/social.html author=author %}
