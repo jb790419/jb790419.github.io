@@ -16,7 +16,7 @@ blahovad:
     Své dobrovolné práce v roli zastupitelky, vykonávané za honorář deset tisíc za rok, si vážím. Oceňuji na sobě, že jsem se nezpronevěřila hodnotám, ke kterým jsme se jako Otevřená radnice v roce 2014 před volbami hlásili. Jsou to požadavky na transparentnost radnice, solidaritu s neinformovanou částí veřejnosti a selský rozum, které fungovaly jako protiproud, a bylo dost obtížné to čtyři roky ustát. Ovšem stálo to za to. Do zavřených dveří starých struktur se dostal klín, který otevírá prostor pro všechny lidi, co to chtějí dělat jinak.
 
     Moje základní ideje do dalšího volebního období jsou zelená Choceň, transparentní a přátelské vedení radnice, nezávislý Choceňský zpravodaj a rovný přístup města k místním školám.
-  picture: /assets/foto/01_Blahova.png
+  picture: /assets/foto/small/01_Blahova.jpg
   social:
     email: Dagmar.Blahova@gmail.com
     facebook: dada.coco.9
@@ -26,7 +26,7 @@ dolezalovad:
   age: 36
   occupation: Specialista péče o zákazníky
   titul: DiS.
-  picture: /assets/foto/02_Dolezalova.png
+  picture: /assets/foto/small/02_Dolezalova.jpg
   about: |
     Vystudovala jsem obor dopravní stavby na vyšší odborné škole a pracovala jsem několik let jako projektantka. Dostala jsem se i mimo obor k řízení vzdělávacího projektu pro učitele základních a středních škol v Pardubickém kraji. Nyní jsem specialistka péče o zákazníky u firmy, která se zabývá projektovým řízením.
 
@@ -37,7 +37,7 @@ kratochvilovak:
   age: 37
   occupation: Manažerka obchodu
   titul:
-  picture: /assets/foto/03_Kratochvilova.png
+  picture: /assets/foto/small/03_Kratochvilova.jpg
   about: |
     Po dokončení střední obchodní školy byla moje práce spjata buď s obchodem a nebo službami... A když přišel čas mateřské, byla jsem ráda, že ji mohu prožívat v Chocni... Možná proto, že jsem původem z Prahy, dokážu ocenit lidskou blízkost a sounáležitost, kterou mi toto město dalo.
 
@@ -48,7 +48,7 @@ sladekf:
   age: 34
   occupation: Podnikatel
   titul: Ing.
-  picture: /assets/foto/04_Sladek.png
+  picture: /assets/foto/small/04_Sladek.jpg
   about: |
     Celý svůj krátký život žiji v Chocni a nedovedu si představit, že bych žil jinde :).
 
@@ -71,7 +71,7 @@ blahaj:
 
   # This photo will be used in the about section.
   picture:
-    path: /assets/foto/05_Blaha.png
+    path: /assets/foto/small/05_Blaha.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
 #    srcset:
 #      1x:            https://placehold.it/128x128
@@ -95,14 +95,14 @@ truncovaj:
     V Chocni žiji od narození, vyučila jsem se zde cukrářkou, a v současnosti pracuji v jedné choceňské firmě jako dělnice. Nyní jsem bez politické příslušnosti, ale v minulosti jsem byla členkou Strany Zelených. Rok jsem vedla jejich krajské sdružení.
 
     Svou prací pro město bych chtěla dokázat, aby Choceň byla přívětivé místo k životu pro obyvatele všech věkových kategorií a aby se mohli obyvatelé více zapojit do diskuse o fungování města.
-  picture: /assets/foto/06_Truncova.png
+  picture: /assets/foto/small/06_Truncova.jpg
 
 motyckovavichovad:
   name: Dana Motyčková Víchová
   age: 44
   titul: DiS.
   occupation: Pedagog volného času
-  picture: /assets/foto/07_Motyckova.png
+  picture: /assets/foto/small/07_Motyckova.jpg
   about: |
     V Chocni jsem prožila dětství i dospívání. Po studiu na gymnáziu ve Vysokém Mýtě jsem si vyzkoušela, jaké je to být v Chocni malým podnikatelem. Po absolvování VOŠ pedagogické v Litomyšli jsem se začala věnovat práci, která mě vždy lákala – práci s lidmi. Ráda získávám nové zkušenosti napříč různými cílovými skupinami – s dětmi, seniory i osobami s handicapem.
 
@@ -113,7 +113,7 @@ srnskyl:
   age: 42
   titul:
   occupation: Obchodní manažer
-  picture: /assets/foto/08_Srnsky.png
+  picture: /assets/foto/small/08_Srnsky.jpg
   about: |
     Již více než 20&nbsp;let působím v oblasti obchodu a marketingu, jsem zvyklý komunikovat s lidmi, hledat a především nalézat optimální řešení různých problémů. Rád své zkušenosti využiji při práci pro město, kde žiji od narození.
 
@@ -124,7 +124,7 @@ jurcikv:
   age: 35
   titul: MgA.
   occupation: Učitel ZUŠ
-  picture: /assets/foto/09_Jurcik.png
+  picture: /assets/foto/small/09_Jurcik.jpg
   about: |
     Vystudoval jsem hru na klavír a vyučuji ji na ZUŠ ve Vysokém Mýtě. V Chocni žiji, protože se mi líbí její kontakt s přírodou a umístění na železničním koridoru bez rušné silnice.
 
@@ -135,7 +135,7 @@ neuhoferovam:
   age: 38
   titul:
   occupation: Sociální pracovnice
-  picture: /assets/foto/10_Neuhoferova.png
+  picture: /assets/foto/small/10_Neuhoferova.jpg
   about: |
     Pocházím z Teplic, v Chocni žiji již osmnáct let a neměnila bych, je pro mě domovem. Pracuji osm let s dětmi a v sociálních službách.
 
@@ -146,7 +146,7 @@ rajnett:
   age: 33
   titul:
   occupation: Zahradní realizátor
-  picture: /assets/foto/11_Rajnet.png
+  picture: /assets/foto/small/11_Rajnet.jpg
   about: |
     Jsem podnikatel v oboru poskytování služeb pro zemědělství a zahradnictví. Již dvanáctým rokem působím na trhu s realizacemi zahrad pro soukromníky i veřejný sektor. Jsem zvyklý spoléhat se na vlastní intuici, zdravý rozum a kolektiv lidí okolo sebe.
 
@@ -157,7 +157,7 @@ kincll:
   age: 67
   titul:
   occupation: Technik v důchodu
-  picture: /assets/foto/12_Kincl.png
+  picture: /assets/foto/small/12_Kincl.jpg
   about: |
     V Chocni jsem se narodil a žiji celý život. Zatím jsem nenašel hezčí místo, kam bych se chtěl přestěhovat.
 
@@ -168,7 +168,7 @@ stepanp:
   age: 56
   titul:
   occupation: Podnikatel
-  picture: /assets/foto/13_Stepan.png
+  picture: /assets/foto/small/13_Stepan.jpg
   about: |
     Narodil jsem se v Chocni. Od dvaceti pěti let jsem žil s rodinou v zahraničí a po skoro dvaceti letech jsem se vrátil do Chocně, kterou považuji za svůj domov a svoji budoucnost. Převážnou část svého života se zabývám zahraničním obchodem.
 
@@ -179,7 +179,7 @@ hajkovab:
   age: 43
   titul: Mgr.
   occupation: Učitelka SŠ
-  picture: /assets/foto/14_Hajkova.png
+  picture: /assets/foto/small/14_Hajkova.jpg
   about: |
     V Chocni žiji od narození. Je to krásné, zelené město a ráda bych, aby se podpora zeleně ve městě prohlubovala. Vadí mi zbytečné kácení zdravých stromů. Do opozice jsem vstoupila proto, že je důležité, aby tady byla. Aby tu byl někdo, kdo bude vstupovat do zaběhlého a „bezbolestného" rozhodování místních zvolených. Aby někdo poukazoval na to, že věci se dají dělat i jinak, než byli dosavadní zvyklí. Že je třeba více vnímat a brát v potaz názory občanů a respektovat jejich přání. Ne si pouze jít a rozhodovat na uhlazené, překážek zbavené cestě.
 
@@ -188,7 +188,7 @@ duskovam:
   age: 42
   titul: Mgr.
   occupation: Psycholožka
-  picture: /assets/foto/15_Duskova.png
+  picture: /assets/foto/small/15_Duskova.jpg
   about: |
     V Chocni jsem se narodila, záleží mi na jejím dalším rozvoji. Pracuji jako psycholog v rehabilitačním zařízení, proto je mi blízká oblast péče o handicapované lidi. Tímto směrem bych chtěla zaměřit pozornost i v rámci Chocně.
 
@@ -197,7 +197,7 @@ matoulkovaj:
   age: 37
   titul:
   occupation: Účetní
-  picture: /assets/foto/16_Matoulkova.png
+  picture: /assets/foto/small/16_Matoulkova.jpg
   about: |
     Ještě donedávna mě politika nezajímala, ale akce Tochajda mi ukázala, že je třeba být v Chocni aktivní. Jako účetní bych chtěla, aby finance města byly veřejně přístupné a transparentní.
 
@@ -207,7 +207,7 @@ macakovai:
   age: 33
   titul: Ing.
   occupation: Hlavní účetní
-  picture: /assets/foto/17_Macakova.png
+  picture: /assets/foto/small/17_Macakova.jpg
   about: |
     Rozhodnutí kandidovat a podpořit tak Otevřenou radnici byla snadná volba. Sdružení chce pro město přínosné změny a především zprůhlednit veškeré kroky města. Chtěla bych více dohlédnout na správnost a účelnost peněžních prostředků.
 
@@ -216,7 +216,7 @@ drzmiskovaz:
   age: 50
   titul: Mgr.
   occupation: Sales manager
-  picture: /assets/foto/18_Drzmiskova.png
+  picture: /assets/foto/small/18_Drzmiskova.jpg
   about: |
     Vystudovala jsem Filozofickou fakultu, obor čeština - angličtina. Od ukončení studia pracuji v převážně obchodní sféře, nyní na pozici regionálního manažera. I když moje práce vyžaduje neustálé cestování, vždy se velmi ráda vracím právě do Chocně, která je nejen mým rodným městem, ale i domovem.
 
@@ -227,7 +227,7 @@ vincencovaj:
   age: 41
   titul:
   occupation: Účetní
-  picture: /assets/foto/19_Vincencova.png
+  picture: /assets/foto/small/19_Vincencova.jpg
   about: |
     V Chocni jsem prožila většinu svého života. Je to pro mě domov, rodina, přátelé, příroda, sport...
 
@@ -239,7 +239,7 @@ rackovae:
   age: 62
   titul: Mgr.
   occupation: Učitelka v důchodu
-  picture: /assets/foto/20_Rackova.png
+  picture: /assets/foto/small/20_Rackova.jpg
   about: |
     Jsem člověk, žena, matka dvou dětí, povoláním učitelka. V Chocni žiji už přes 40 let a postupně jsem ji začala vnímat jako nový domov. Celoživotní práce s lidmi mne naučila, že všechny změny začínají v lidských srdcích, v hlavách. Člověk, který myslí a zároveň cítí, tak neztrácí své lidství, nežene se jen za svým prospěchem, hmotnými statky, ale má stále na zřeteli i budoucnost dětí i důstojné stáří rodičů.
 
@@ -250,7 +250,7 @@ basarinj:
   age: 55
   titul:
   occupation: Elektrikář
-  picture: /assets/foto/21_Basarin.png
+  picture: /assets/foto/small/21_Basarin.jpg
   about: |
     Jsem skromný, kulturně založený člověk. Z politických témat je pro mě důležité kvalitní vzdělávání dětí a využití jejich osobního volna. Zároveň bych chtěl přispět k tomu, aby se důchodci v Chocni měli dobře, byli podporováni a zabezpečeni.
 
