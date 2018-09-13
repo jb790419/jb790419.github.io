@@ -60,7 +60,7 @@ date_formats:
   post:                '%d. %m. %Y'
   related_post:        '%d. %m. %Y'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%d. %m.'
   project:             '%Y'
   projects_group_by:   '%Y'
   resume:              '%b %Y'
