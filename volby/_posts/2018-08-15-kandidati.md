@@ -4,7 +4,6 @@ title: Kandidáti
 permalink: kandidati
 menu: true
 order: 1
-author: abcd
 addons: related
 description: >
   Kandidátka Otevřené radnice pro komunální volby v Chocni 5.&nbsp;a&nbsp;6.&nbsp;října&nbsp;2018
