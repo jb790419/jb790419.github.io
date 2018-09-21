@@ -35,7 +35,7 @@ tagline:               |
 keywords:              [otevrena radnice chocen 2018 komunalni volby]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/logoOR.png
+#logo:                  /assets/logoOR.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -70,9 +70,9 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:
-  background: '#61045F'
-  overlay: false
+accent_image: /assets/img/karikatura_background.png
+#  background: '#61045F'
+#  overlay: true
 accent_color:          '#AA076B'
 
 # This is used for the `theme-color` meta tag,
