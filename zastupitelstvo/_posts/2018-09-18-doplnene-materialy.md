@@ -4,6 +4,8 @@ layout: post
 description: >
   Další materiály pro jednání zastupitelstva Chocně dne 19. září 2018
 ---
+![](/assets/img/karikatura.png)
+
 Na webu města přibyly ještě následující podklady.
 
 * <https://www.chocen-mesto.cz/assets/File.ashx?id_org=5197&id_dokumenty=330095>
