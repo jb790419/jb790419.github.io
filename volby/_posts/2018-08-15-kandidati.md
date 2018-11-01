@@ -2,7 +2,7 @@
 layout: post
 title: Kandidáti
 permalink: kandidati
-menu: true
+menu: false
 order: 2
 addons: related
 description: >
